@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/dulanjana/fiverr_projects/particle_filter_assignment/catkin_ws/devel/.private/particle_filter_localisation/setup.sh
